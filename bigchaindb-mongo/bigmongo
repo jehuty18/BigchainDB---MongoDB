@@ -1,0 +1,13 @@
+cd bigchaindb-mongo
+sudo python3 setup.py install
+bigmongodb -y configure
+bigmongodb start
+
+
+npm install test -> ok
+npm install sha3 -> ok
+npm install five-bells-condition -> quasi ok
+npm install crypto-js -> ok
+npm install microtime
+npm install multiprocessing -> Ok
+

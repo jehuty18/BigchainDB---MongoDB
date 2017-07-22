@@ -1,0 +1,433 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"data",
+				"data_file"
+			],
+			[
+				"file",
+				"file_js"
+			],
+			[
+				"fil",
+				"file_js"
+			],
+			[
+				"in",
+				"info"
+			],
+			[
+				"lista",
+				"lista_voti"
+			],
+			[
+				"lo",
+				"logger"
+			],
+			[
+				"list",
+				"list_vote"
+			],
+			[
+				"un",
+				"unvoted"
+			],
+			[
+				"cl",
+				"client"
+			],
+			[
+				"tx",
+				"tx_to_delete"
+			],
+			[
+				"transa",
+				"transaction"
+			],
+			[
+				"block",
+				"block_serialized"
+			],
+			[
+				"da",
+				"datetime"
+			],
+			[
+				"init",
+				"initial_results"
+			],
+			[
+				"conn",
+				"_conn"
+			],
+			[
+				"pa",
+				"payload_hash"
+			],
+			[
+				"arr",
+				"arr"
+			],
+			[
+				"find",
+				"find_one"
+			],
+			[
+				"last",
+				"last_voted"
+			],
+			[
+				"p",
+				"pymongo"
+			],
+			[
+				"coll",
+				"coll2"
+			],
+			[
+				"mia",
+				"miaColl"
+			],
+			[
+				"blo",
+				"block_serialized"
+			],
+			[
+				"new_",
+				"new_response"
+			],
+			[
+				"ow",
+				"owner"
+			],
+			[
+				"fulm",
+				"fulfillment"
+			],
+			[
+				"ful",
+				"fulfillments"
+			],
+			[
+				"sign",
+				"signed_transaction"
+			],
+			[
+				"prova",
+				"prova"
+			],
+			[
+				"crea",
+				"create_indexes"
+			],
+			[
+				"create",
+				"create_indexes"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/giuseppe/Scrivania/hello.js",
+		"/home/giuseppe/Scrivania/main.js",
+		"/home/giuseppe/Scrivania/hello.json",
+		"/home/giuseppe/Scrivania/test_immagine.py",
+		"/home/giuseppe/Scrivania/test_json.py",
+		"/home/giuseppe/Scrivania/duomolecce.json",
+		"/home/giuseppe/Scrivania/duomo.json",
+		"/home/giuseppe/Scrivania/bigchaindb-master/bigchaindb/core.py",
+		"/home/giuseppe/Scrivania/bigchaindb-mongo/bigchaindb/__init__.py",
+		"/home/giuseppe/Scrivania/bigchaindb-mongo/bigchaindb/commands/bigchain.py",
+		"/home/giuseppe/Scrivania/bigchaindb-mongo/bigchaindb/core.py",
+		"/home/giuseppe/Scrivania/bigchaindb-mongo/bigchaindb/commands/utils.py",
+		"/home/giuseppe/Scrivania/bigchaindb-mongo/bigchaindb/util.py",
+		"/home/giuseppe/Scrivania/bigchaindb-mongo/bigchaindb/voter.py",
+		"/home/giuseppe/Scrivania/test_delete.py",
+		"/home/giuseppe/Scrivania/bigchaindb-mongo/bigchaindb/consensus.py",
+		"/home/giuseppe/Scrivania/bigchaindb-mongo/bigchaindb/block.py",
+		"/home/giuseppe/Scrivania/bigchaindb-mongo/bigchaindb/db/utils.py",
+		"/home/giuseppe/Scrivania/test_rapidjson.py",
+		"/home/giuseppe/Scrivania/bigchaindb-mongo/bigchaindb/config_utils.py",
+		"/home/giuseppe/Scrivania/test_index.py",
+		"/home/giuseppe/Scrivania/test_io/test_io.py",
+		"/home/giuseppe/Scrivania/bigchaindb-mongo/setup.py",
+		"/home/giuseppe/bigchaindb-mongo/setup.py",
+		"/home/giuseppe/bigchaindb-mongo/build/lib/bigchaindb/__init__.py",
+		"/home/giuseppe/Scrivania/bigchaindb-mongo/bigchaindb/crypto.py",
+		"/home/giuseppe/bigchaindb-mongo/bigchaindb/__init__.py",
+		"/home/giuseppe/Scrivania/bigchaindb-mongo/bigchaindb/client.py",
+		"/home/giuseppe/Scrivania/bigchaindb-mongo/bigchaindb/exceptions.py",
+		"/home/giuseppe/Scrivania/bigchaindb-mongo/bigchaindb/processes.py",
+		"/home/giuseppe/Scrivania/test_io.py",
+		"/home/giuseppe/Scrivania/test.py",
+		"/home/giuseppe/Scrivania/test random tirocinio/entry points/console_script/commands/__init__.py",
+		"/home/giuseppe/Scrivania/bigchaindb-mongo/bigchaindb/commands/__init__.py",
+		"/home/giuseppe/Scrivania/test random tirocinio/entry points/console_script/commands/commands.py",
+		"/home/giuseppe/Scrivania/console_script/commands/commands.py",
+		"/home/giuseppe/Scrivania/console_script/setup.py",
+		"/home/giuseppe/Scrivania/test/main.py",
+		"/home/giuseppe/Scrivania/test/funzioni.py",
+		"/home/giuseppe/Scrivania/test_if.py",
+		"/home/giuseppe/Scrivania/search_arr.py",
+		"/home/giuseppe/Scrivania/bigchaindb-mongo/bigchaindb/db/__init__.py",
+		"/home/giuseppe/Scrivania/test_aggregate.py",
+		"/home/giuseppe/Scrivania/test_row.py",
+		"/home/giuseppe/Scrivania/test_search.py",
+		"/home/giuseppe/Scrivania/bigchaindb-mongo/bigchaindb/search_arr.py",
+		"/home/giuseppe/Scrivania/test/command/utils.py",
+		"/home/giuseppe/Scrivania/test/command/line.py",
+		"/home/giuseppe/Scrivania/test/setup.py",
+		"/home/giuseppe/.cache/.fr-qLCP3v/command/line.py",
+		"/home/giuseppe/Scrivania/Test/command/line.py",
+		"/home/giuseppe/Scrivania/Test/setup.py",
+		"/home/giuseppe/Scrivania/prova/Nuovo documento 2",
+		"/home/giuseppe/Scrivania/prova/Nuovo documento",
+		"/home/giuseppe/Scrivania/bigchaindb-mongo/bigchaindb/commands/bigchaindb.py",
+		"/home/giuseppe/Scrivania/test random tirocinio/Pymongo/connection+insert.py",
+		"/home/giuseppe/Scrivania/test random tirocinio/Test rethinkdb/test_rethink.py",
+		"/home/giuseppe/Scrivania/create_db.py",
+		"/home/giuseppe/Scrivania/show_dbs.py",
+		"/home/giuseppe/Scrivania/test random tirocinio/Pymongo/tailable_cursor.py",
+		"/home/giuseppe/Scrivania/test_rethink.py",
+		"/home/giuseppe/Scrivania/test_tail_cur.py",
+		"/home/giuseppe/Scrivania/test random tirocinio/Pymongo/test_pymongo.py",
+		"/home/giuseppe/Scrivania/x.py",
+		"/home/giuseppe/Scrivania/test2.py",
+		"/home/giuseppe/Scrivania/init_bigchain.py",
+		"/home/giuseppe/Scrivania/tailable_test.py",
+		"/home/giuseppe/Scrivania/test_pymongo.py",
+		"/home/giuseppe/Scrivania/bigchaindb-mongo/bigchaindb/monitor.py"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"q_blocks_to_validate",
+			"q_new_block",
+			"q_validated_block",
+			"q_voted_block",
+			"v_previous_block_number",
+			"q_validated_block",
+			"q_voted_block",
+			"votes",
+			"federation_n",
+			"q_tx_dele",
+			"create_blo",
+			"genesis",
+			"id",
+			"sign_t",
+			"genesis",
+			"id",
+			"queue",
+			"tx_delete",
+			"json",
+			"write_b",
+			"self.conn",
+			"genesis",
+			"genes",
+			"threa",
+			"thre",
+			"r.",
+			"tx_delete",
+			"q_new_block",
+			"q_new_transaction",
+			"q_new_block",
+			"create_blocks",
+			"stop",
+			"kill(",
+			"timestamp",
+			"util.tim",
+			"time",
+			"timestamp",
+			"kill",
+			"q_validated_block",
+			"validate_blo",
+			"enco",
+			"_q_new",
+			"client",
+			"write_",
+			"write_tra",
+			"get_tra",
+			".put",
+			"forEach",
+			"get_la",
+			".contains",
+			"get_all",
+			"concat_",
+			"list",
+			"q_voted_block",
+			"get_last_voted_block",
+			"v_previous_block_number",
+			"q_validate",
+			"q_voted_block",
+			"write_c",
+			"write_",
+			"block_num",
+			").",
+			"r.",
+			"iter",
+			"prov",
+			"Giuseppe",
+			"()\n",
+			"gt",
+			"rs",
+			"previou",
+			"v_previous",
+			"prev"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "block.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Scrivania/test/main.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

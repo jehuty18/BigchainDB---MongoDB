@@ -1,0 +1,27 @@
+MODULI BIGMONGODB REVISIONATI:
+ setup.py -> Completato
+
+ bigchaindb.commands - bigchain.py -> Completato
+ bigchaindb.commands - utils.py -> Completato
+
+ bigchaindb.db -  __init__.py -> Completato
+ bigchaindb.db - utils.py (in corso) -> Completato
+
+ bigchaindb - block.py -> Stallo: Porting in sospeso -> Porting eseguito -> COMPLETATO
+ bigchaindb - client.py (in corso) -> COMPLETATO
+ bigchaindb - config_utils.py (in corso) -> COMPLETATO
+ bigchaindb - consensus.py (in corso) -> COMPLETATO
+ bigchaindb - core.py (in corso) -> Rivisto più volte in fase di review (ancora incompleto)
+ bigchaindb - crypto (in corso) -> COMPLETATO
+ bigchaindb - exceptions.py (in corso) -> COMPLETATO
+ bigchaindb - __init__.py -> Aggiunta l'inizializzazione e primo retrieve di TIMESTAMP -> COMPLETATO
+ bigchaindb - monitor.py (in corso) -> COMPLETATO
+ bigchaindb - processes.py (in corso) -> La review del codice è completa, ma serve testare la variabile globale TIMESTAMP -> COMPLETATO
+ bigchaindb - util.py (in corso)
+ bigchaindb - version.py (in corso) -> COMPLETATO
+ bigchaindb - voter.py (in corso) -> COMPLETATO
+
+
+(Aggiornamento di venerdì 24/06/2016)
+Essendo passato alla fase di testing del codice ho interrotto la fase di review nel momento di mettere mano al codice di core.py; tuttavia la scelta è risultata corretta alla luce degli errori evidenziati unicamente in fase di esecuzione del codice.
+ 
